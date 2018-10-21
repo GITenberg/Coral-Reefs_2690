@@ -1,5 +1,5 @@
 _repo: Coral-Reefs_2690
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -30,5 +30,6 @@ subjects:
 - !lcsh 'Geology -- South America'
 - !lcsh 'Volcanoes'
 - !lcsh 'Coral reefs and islands'
+- GITenberg
 title: Coral Reefs
 url: http://www.gutenberg.org/ebooks/2690
